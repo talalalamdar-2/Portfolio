@@ -21,7 +21,7 @@
             "startDate": "2017",
             "endDate": "2018",
             "title": "Hack Your Future – Programming school",
-            "subTitle": "(HTML, CSS, JavaScript, NodeJs, MySQL, React)",
+            "subTitle": "",
             "details": "HackYourFuture is a coding school that gives refugees the opportunity to build and improve their programming skills. Over the course of six months, professional developers teach HTML, CSS, JS, Node, React.js, and MySQL. In addition, problem-solving skills and teamwork are emphasized throughout the curriculum. In the last six weeks, students build a final project to put into practice what they have learned. Project: Hyfer"
         },
         "economics": {
@@ -32,11 +32,20 @@
         }
     },
     "experiences": {
+        "TomTom": {
+            "startDate": "2021",
+            "endDate": "today",
+            "title": "TomTom - Amsterdam",
+            "subTitle": "Front-End Engineer",
+            "tasks": [
+            ],
+            "details": "TomTom is a location service company"
+        },
         "Channable": {
             "startDate": "2021",
-            "endDate": "Today",
+            "endDate": "2021",
             "title": "Channable - Amsterdam",
-            "subTitle": "Front End Developer",
+            "subTitle": "Front-End Developer",
             "tasks": [
                 "Building new pages and components for the website, using technologies like React and GraphQl on the client- side, with Nextjs on the server-side and following a design system built with Styled-Components and following CDD methodology with reusable components.",
                 "Managing the website content using GraphCMS, and building new models and define apis structure that can be fetched and queried using Graphql-Apollo on the client side.",
@@ -55,7 +64,7 @@
             "startDate": "2019",
             "endDate": "2021",
             "title": "OneFit - Amsterdam",
-            "subTitle": "Front End Developer",
+            "subTitle": "Front-End Developer",
             "tasks": [
                 "Shipping new features using technologies like vanilla Javascript and VueJs",
                 "Feature ownership, making sure features are tested/QA'ed deployed to Production",
@@ -71,7 +80,7 @@
             "startDate": "2018",
             "endDate": "2019",
             "title": "Ilumy - Amsterdam",
-            "subTitle": "Front End Developer",
+            "subTitle": "Front-End Developer",
             "tasks": [
                 "Implementing fully new features for the app",
                 "Converting some old code components from AngularJs to ReactJs",
@@ -81,42 +90,6 @@
                 "Creating tools that enhance User Experience of the app in any browser"
             ],
             "details": "Ilumy is a company which mainly prototypes new features for different clients. One of the most successful products we have is Plek. It is platform to organize teams and departments within organizations (digital workspace for teams). As a Junior Front-End Developer, I worked mainly on below tasks: "
-        },
-        "artIstanbul": {
-            "startDate": "2013",
-            "endDate": "2015",
-            "title": "Art Istanbul - Istanbul",
-            "subTitle": "Waiter",
-            "tasks": [
-                "Preparing various drinks behind the bar",
-                "Serving the customers",
-                "Cooking in the kitchen"
-            ],
-            "details": ""
-        },
-        "terranova": {
-            "startDate": "2010",
-            "endDate": "2013",
-            "title": "Terranova - Aleppo",
-            "subTitle": "Salesman",
-            "tasks": [
-                "Serving clients",
-                "Managing the inventory",
-                "Managing the promotion of products"
-            ],
-            "details": ""
-        },
-        "gamingStore": {
-            "startDate": "2009",
-            "endDate": "2010",
-            "title": "Internet and gaming store – Aleppo",
-            "subTitle": "Supervisor",
-            "tasks": [
-                "Financial assistance",
-                "Helping clients if needed",
-                "Organizing the store and cleaning it up"
-            ],
-            "details": ""
         }
     },
     "languages": {
