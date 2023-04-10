@@ -177,7 +177,6 @@ export default {
   },
 
   mounted() {
-    console.log('hello')
     setTimeout(() => {
       window.scrollTo({
         top: 0,
