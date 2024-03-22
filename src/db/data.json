@@ -12,17 +12,17 @@
         },
         "github": {
             "icon": "../assets/GitHub-Mark.png",
-            "href": "https://www.github.com/talalalamdar"
+            "href": "https://www.github.com/talalalamdar-2"
         }
     },
-    "summary": "I am a Front-End Developer, looking forward to gain more experience and continue building my career in this field. I am very eager to learn, ready to take on responsibilities to improve my skills and add value to your organization. In addition, I function very well within a team and I can also execute tasks on an individual basis when needed. ",
+    "summary": "I am a Software Developer, looking forward to gain more experience and continue building my career in this field. I am very eager to learn, ready to take on responsibilities to improve my skills and add value to your organization. In addition, I function very well within a team and I can also execute tasks on an individual basis when needed. ",
     "education": {
         "hackYourFuture": {
             "startDate": "2017",
             "endDate": "2018",
             "title": "Hack Your Future – Programming school",
             "subTitle": "",
-            "details": "HackYourFuture is a coding school that gives refugees the opportunity to build and improve their programming skills. Over the course of six months, professional developers teach HTML, CSS, JS, Node, React.js, and MySQL. In addition, problem-solving skills and teamwork are emphasized throughout the curriculum. In the last six weeks, students build a final project to put into practice what they have learned. Project: Hyfer"
+            "details": "HackYourFuture is a coding and programming school. Over the course of six months, professional developers teach HTML, CSS, JavaScript, Node, ReactJs, and MySQL. In addition, problem-solving skills and teamwork are emphasized throughout the curriculum. In the last six weeks, students build a final project to put into practice what they have learned. Project: Hyfer"
         },
         "economics": {
             "startDate": "2009",
@@ -121,9 +121,10 @@
         }
     },
     "technicalSkills": [
-        "Strong programming skills in: HTML, CSS/Sass, and  JavaScript.",
-        "Working experience on different projects with different frameworks and libraries: React.js, AngularJS, React Native, Redux, Mobx, Typescript, Sass, Vue.js, Vuex, Apollo, GraphQl, and Rest APIs",
-        "Good understanding of Node.Js, MySQL, MongoDB, Mongoose, Express.js, Php, Laravel, Jenkins, Socket.io and Git",
+        "Strong programming skills in: HTML, CSS/Sass, Typescript and JavaScript.",
+        "Good working experience with different frameworks and libraries: NextJs, Nuxt, Laravel, React.js, ReactNative, Vue.js, AngularJS, Tailwind, Redux, Jotai, React-tesing-library, Storybook, Styled-Components, Mobx, Vuex, GrpahQl, Apollo, and Rest APIs.",
+        "Good working experience with Node.Js, MySQL, Algolia, Docker, MongoDB, Mongoose, Express.js, Jenkins, Vercel, AzureDevops, Figma, SocketIo and Git",
+        "Good working experience with different content management systems like GraphCMS and Storyblok.",
         "Good understanding of Scrum and Agile methodology.",
         "Experience with different debugging tools."
     ],
@@ -137,35 +138,11 @@
         "Projects"
     ],
     "projects": {
-        "Chat app": {
-            "name": "Chat app",
-            "description": "Chat App built with NodeJs, Express, Socket.io, Vuejs, Javascript, Sass - Simple chat interface with rooms and some functionalities interface with 3 screens: - Sign up with userName - Select a room - start chatting with people in the room",
-            "link": "",
-            "sourceCode": "https://github.com/talalalamdar/Chat-App"
-        },
-        "hyfer": {
-            "name": "HYFER",
-            "description": "Hyfer is an application where all HackYourFuture students can follow their course schedule and find an overview of their homework. It also provides insight for teachers, to verify which modules are taught. Finally, students can receive their train tickets and submit a P2P review of their classmates’ homework. Hyfer is built using [React.js, JavaScript, HTML, CSS, MySQL and NodeJs].",
-            "link": "",
-            "sourceCode": "https://github.com/HackYourFuture/hyfer"
-        },
         "moviesApp": {
             "name": "Movies App",
             "description": "Movies App fetching data from The Movie DB API, Search movies from The Movie DB API, Bookmark, Add to plan, Rate a movie and see its average rating, reviews and similar movies. Trending, Latest, Upcoming, Now Playing, and top rated movies. Built using HTML, CSS, javaScript, ReactJs, Redux, React-router, Bootstrap, and Restful API and other libraries",
             "link": "https://talalalamdar-movies-app.surge.sh",
             "sourceCode": "https://github.com/talalalamdar/movies-app"
-        },
-        "calendar": {
-            "name": "Calendar",
-            "description": "Simple calendar UI (Add, edit, and remove tasks). Built using HTML, CSS, JavaScript, ReactJs, moment.js, Bootstrap",
-            "link": "https://talalalamdar-calendar.surge.sh",
-            "sourceCode": "https://github.com/talalalamdar/calendar-react"
-        },
-        "meetingsApp": {
-            "name": "Meetings App",
-            "description": "Meetings app, built using HTML, CSS, JavaScript, ReactJs, NodeJs, MongoDb, Mongoose, Express, and Typescript.",
-            "link": "",
-            "sourceCode": "https://github.com/talalalamdar/meetings-app"
         },
         "booksApp": {
             "name": "Books App",
@@ -173,17 +150,41 @@
             "link": "https://talalalamdar-books-app.surge.sh",
             "sourceCode": "https://github.com/talalalamdar/books-app"
         },
+        "FlappyBird": {
+            "name": "Flappy Bird",
+            "description": "Flappy Bird game for web, made with HTML, CSS, and Vanilla Javascript",
+            "link": "https://flappy-bird-web.on.fleek.co",
+            "sourceCode": "https://github.com/talalalamdar/calculator-react-native"
+        },
+        "calendar": {
+            "name": "Calendar",
+            "description": "Simple calendar UI (Add, edit, and remove tasks). Built using HTML, CSS, JavaScript, ReactJs, moment.js, Bootstrap",
+            "link": "https://talalalamdar-calendar.surge.sh",
+            "sourceCode": "https://github.com/talalalamdar/calendar-react"
+        },
+        "Chat app": {
+            "name": "Chat app",
+            "description": "Chat App built with NodeJs, Express, Socket.io, Vuejs, Javascript, Sass - Simple chat interface with rooms and some functionalities interface with 3 screens: - Sign up with userName - Select a room - start chatting with people in the room",
+            "link": "",
+            "sourceCode": "https://github.com/talalalamdar/Chat-App"
+        },
+        "meetingsApp": {
+            "name": "Meetings App",
+            "description": "Meetings app, built using HTML, CSS, JavaScript, ReactJs, NodeJs, MongoDb, Mongoose, Express, and Typescript.",
+            "link": "",
+            "sourceCode": "https://github.com/talalalamdar/meetings-app"
+        },
         "calculator": {
             "name": "Calculator",
             "description": "Simple calculator UI (Mobile App). Built using JavaScript and ReactNative",
             "link": "",
             "sourceCode": "https://github.com/talalalamdar/calculator-react-native"
         },
-        "FlappyBird": {
-            "name": "Flappy Bird",
-            "description": "Flappy Bird game for web, made with HTML, CSS, and Vanilla Javascript",
-            "link": "https://flappy-bird-web.on.fleek.co",
-            "sourceCode": "https://github.com/talalalamdar/calculator-react-native"
+        "hyfer": {
+            "name": "HYFER",
+            "description": "Hyfer is an application where all HackYourFuture students can follow their course schedule and find an overview of their homework. It also provides insight for teachers, to verify which modules are taught. Finally, students can receive their train tickets and submit a P2P review of their classmates’ homework. Hyfer is built using [React.js, JavaScript, HTML, CSS, MySQL and NodeJs].",
+            "link": "",
+            "sourceCode": "https://github.com/HackYourFuture/hyfer"
         },
         "portfolio": {
             "name": "Portfolio",
