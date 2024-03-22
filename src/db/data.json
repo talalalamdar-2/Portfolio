@@ -36,10 +36,20 @@
             "startDate": "2021",
             "endDate": "today",
             "title": "TomTom - Amsterdam",
-            "subTitle": "Front-End Engineer",
+            "subTitle": "Software Engineer",
             "tasks": [
+                "Building new applications from scratch using technologies like NextJs, React, TypeScript and Tailwind",
+                "Migrating multiple custom legacy applications to NextJs framework",
+                "Migrating multiple applications from old CMS to new CMS system",
+                "Building new components designed in Figma using technologies like React, Typescript and Tailwind",
+                "Creating new forms as reusable components, and integrating it with new system (Hubspot)",
+                "Working with Algolia to optimise the search functionality across application",
+                "Working with Microsoft Azure to manage pipelines and builds and different deployments of the applications",
+                "Writing Cypress and unit tests for different flows and functionalities in the applications",
+                "Integrating different third party systems (API) and SDKs",
+                "Implementing Google Analytics Tracking (GA4) for different components and events through the apps"
             ],
-            "details": "TomTom is a location service company"
+            "details": "TomTom is a tech company that provides different services (softwares and hardwares) related to location and traffic information and many other products. As a Software Engineer, I worked in the marketing department, my team and I were responsible mainly on developing multiple websites and web applications that uses different internal and external APIs and and third party services. During my work there I took the lead of some projects and my tasks can be summarised with:"
         },
         "Channable": {
             "startDate": "2021",
